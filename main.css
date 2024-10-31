@@ -143,7 +143,7 @@ button#activate.pushed {
 }
 
 .warning:after {
-	content: "WARNING:\2009 DANGER";
+	content: "From:\2009 Anhiu";
 	color: white;
 	transform: rotate(90deg);
 	float: left;
@@ -228,7 +228,7 @@ button#activate.pushed {
 }
 
 div#panel:before {
-	content: "Bây giờ"; 
+	content: "DO YOU LOVE ME?"; /* có thể chỉnh sửa */
 	top: 3vmin;
 	position: relative;
 	font-size: 8vmin;
